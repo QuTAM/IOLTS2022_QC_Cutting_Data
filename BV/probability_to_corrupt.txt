@@ -1,0 +1,9 @@
+bv_4q_from_qufi_with_mlft_fullcirc_inj_pi12
+tot injections: 5850
+num harmful faults: 2342
+40.0 % of all faults are harmful (QVF > 0.55)
+subcircuit 0 probability to corrupt: 32.89 %
+subcircuit 0 contains 82.2 % of harmful faults
+subcircuit 1 probability to corrupt: 7.15 %
+subcircuit 1 contains 17.8 % of harmful faults
+subcircuit 0 has a 4.6 times higher probability than subcircuit 1 to modify the circuit output
